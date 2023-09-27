@@ -1,1 +1,2 @@
 # Real-Time-Health-Monitoring-System
+The system will continuously collect data from sensors, process it using a microprocessor, and transmit it to a server or cloud platform via a secure communication protocol. If the blood pressure reading exceeds safe thresholds, an alert message will be sent to the user's relatives and emergency services. Additionally, daily health data will be stored for long-term monitoring and analysis.
